@@ -53,11 +53,11 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
      {
-       title: 'About',
+       title: 'Hakkımda',
        pageId: 'f2a71aed15a6448c8136bd46df8c1c19'
      },
      {
-       title: 'Contact',
+       title: 'İletişim',
        pageId: 'c624096d55724e5ebdd8c06ab3a29232'
      }
    ]
